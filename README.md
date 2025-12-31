@@ -8,7 +8,7 @@ Ich bin ein ambitionierter **Wirtschaftsinformatik-Student**, der die Brücke zw
 
 - 🛠️ **Aktueller Fokus:** Entwicklung modularer ETL-Pipelines mit Python & Pandas.
 - 📈 **Meine Mission:** Tägliche Exzellenz durch Disziplin und kontinuierliches Lernen. Ich dokumentiere hier meine Reise vom ersten Skript bis hin zu skalierbaren Software-Architekturen.
-- 🎓 **Hintergrund:** Wirtschaftsinformatik (B.Sc.) – Die Symbiose aus wirtschaftlichem Denken und technischer Präzision.
+- 🎓 **Hintergrund:** Wirtschaftsinformatik (B.Sc.). Die Symbiose aus wirtschaftlichem Denken und technischer Präzision.
 
 ---
 
