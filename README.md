@@ -1,5 +1,5 @@
 # Hi, I'm Manasseh 👋
-### Business Informatics Student | Data Engineering & Automation | BPM Automatiom
+### Business Informatics Student | Data Engineering & Automation | BPA & Intelligent Automation
 
 ---
 
