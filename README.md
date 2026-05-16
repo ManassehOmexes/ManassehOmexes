@@ -1,56 +1,49 @@
 # Hi, I'm Manasseh 👋
-### Business Informatics Student | Data Engineering & Automation | BPA (Intelligent Automation)
+
+### Data Engineer | DataOps | Cloud Data Pipelines on AWS
+
+I build automated data pipelines that turn raw data into reliable decisions.
+
+**Background:** B.Sc. Business Informatics — the bridge between business logic and technical precision.
+**Focus:** End-to-end ELT pipelines. From raw data to production-ready dashboards.
+
+Most companies sit on valuable data they can't use.
+Not because they lack interest — but because they lack the infrastructure.
+That's exactly what I build.
 
 ---
 
-## 🚀 About Me
-I am a **Business Informatics Student** passionate about bridging the gap between complex business processes and technical efficiency. My focus is shifting from simple scripting to building **production-ready data architectures**.
+## 🔧 What I'm Building
 
-* 🔭 **Current Focus:** Building an end-to-end [Automated Market Intelligence Platform](https://github.com/ManassehOmexes/market-intelligence-platform) (Python, SQL, Power BI).
-* 💼 **Experience:** Automating reporting workflows in the insurance sector (Werkstudent).
-* 🎓 **Background:** B.Sc. Business Informatics (Wirtschaftsinformatik) – Combining economic logic with technical precision.
-
-> *"Turning raw data into business value."*
-
----
+### [Olist E-Commerce Analytics Pipeline](https://github.com/ManassehOmexes)
+> End-to-end ELT pipeline on AWS. 100,000+ raw orders → automated Power BI dashboard.
+> Built to industry standard. Fully tested. Fully documented.
 
 ## 🛠️ Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data Eng** | ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-Scraping-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Analytics-green?style=for-the-badge) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-VCS-F05033?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
----
-
-## 📂 Featured Projects
-
-### 🚀 [The Architect Approach: Market Intelligence Platform](https://github.com/ManassehOmexes/market-intelligence-platform)
-*My journey from zero to production-ready data engineering.*
-* **The Goal:** Build a system that monitors competitor prices 24/7 and predicts trends.
-* **Stack:** Python, PostgreSQL, Power BI, Docker, OpenAI API.
-* **Status:** 🏗️ *Active Development (Jan - Apr 2026)*
-
-### 🛡️ Insurance Data Automation (Work Experience)
-*Automating critical financial reporting workflows.*
-* **Problem:** Manual, error-prone creation of monthly damage reports.
-* **Solution:** Modular Python ETL pipeline transforming raw ERP data into classified reports.
-* **Impact:** Reduced processing time by 80% and eliminated manual data entry errors.
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) S3 · Glue · Redshift Serverless · MWAA · IAM |
+| **Orchestration** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) Apache Airflow 2.x |
+| **Transformation** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) dbt Core |
+| **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) Terraform |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Data Quality** | Great Expectations · dbt Tests |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManassehOmexes&show_icons=true&theme=tokyonight&hide_border=true" alt="Manasseh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManassehOmexes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManassehOmexes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManassehOmexes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-* 💼 **LinkedIn:** [Manasseh Amoah](https://www.linkedin.com/in/manasseh-amoah-9540b9332/)
-* 📧 **Email:** manasseh.amoah019@gmail.com
+## 📫 Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasseh-amoah-9540b9332/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manasseh.amoah019@gmail.com)
