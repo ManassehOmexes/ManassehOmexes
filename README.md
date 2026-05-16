@@ -25,9 +25,9 @@ That's exactly what I build.
 [AWS Redshift]
 ↓
 [Power BI Dashboard]
-Apache Airflow — daily orchestration
-Great Expectations — automated quality checks
-GitHub Actions — CI/CD on every push
+Apache Airflow - daily orchestration
+Great Expectations - automated quality checks
+GitHub Actions - CI/CD on every push
 
 ---
 
