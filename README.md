@@ -35,7 +35,7 @@ GitHub Actions - CI/CD on every push
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Cloud** | AWS — S3 · Glue · Redshift Serverless · MWAA · IAM |
+| **Cloud** | AWS - S3 · Glue · Redshift Serverless · MWAA · IAM |
 | **Orchestration** | Apache Airflow 2.x |
 | **Transformation** | dbt Core |
 | **IaC** | Terraform |
