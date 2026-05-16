@@ -4,11 +4,11 @@
 
 I build automated data pipelines that turn raw data into reliable decisions.
 
-**Background:** B.Sc. Business Informatics — the bridge between business logic and technical precision.  
+**Background:** B.Sc. Business Informatics - the bridge between business logic and technical precision.  
 **Focus:** End-to-end ELT pipelines. From raw data to production-ready dashboards.
 
 Most companies sit on valuable data they can't use.  
-Not because they lack interest — but because they lack the infrastructure.  
+Not because they lack interest, but because they lack the infrastructure.  
 That's exactly what I build.
 
 ---
