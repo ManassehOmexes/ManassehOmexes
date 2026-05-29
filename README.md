@@ -58,10 +58,10 @@ Core models: `fct_attribution` · `fct_customer_ltv` · `fct_marketing_efficienc
 
 | Domain | Technologies |
 |---|---|
-| Cloud | AWS — S3, Glue, Redshift Serverless, IAM, Secrets Manager · GCP — BigQuery |
+| Cloud | AWS - S3, Glue, Redshift Serverless, IAM, Secrets Manager · GCP - BigQuery |
 | Orchestration | Apache Airflow 2.x |
 | Ingestion | Airbyte (300+ connectors) |
-| Transformation | dbt Core — Staging, Intermediate, Marts |
+| Transformation | dbt Core - Staging, Intermediate, Marts |
 | IaC | Terraform |
 | Data Quality | Great Expectations · dbt Tests · dbt-expectations |
 | CI/CD | GitHub Actions |
